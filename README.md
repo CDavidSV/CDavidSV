@@ -2,7 +2,8 @@
 🔭 I'm Carlos David Sandoval, a 19-year-old aspiring developer with a keen interest in mastering both front-end and back-end technologies.<br>🌱 Currently, I'm focused on learning technologies like React and NodeJS to build robust and dynamic web applications.<br>🖼️ This GitHub repository showcases my work and projects, providing insights into my journey as a developer and creative enthusiast.<br>🎬 In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CDavidSV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=CDavidSV&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
 ## 📊 GitHub Stats:
 <p align="center">
