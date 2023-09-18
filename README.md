@@ -8,7 +8,6 @@
 ## 📊 GitHub Stats:
 <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CDavidSV&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CDavidSV&theme=react&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDavidSV&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 # 💻 Tech Stack:
