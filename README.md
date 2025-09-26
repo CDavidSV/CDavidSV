@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I'm Carlos David Sandoval, a 21-year-old aspiring software engineer interested in mastering both front-end and back-end technologies.<br>🖼️ This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.<br>🎬 In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.
+🔭 I'm Carlos David Sandoval, a 22-year-old aspiring software engineer interested in mastering both front-end and back-end technologies.<br>🖼️ This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.<br>🎬 In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.
 
 ## 📊 GitHub Stats:
 <p align="center">
