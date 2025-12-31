@@ -1,5 +1,14 @@
-## 💫 About Me:
-🔭 I'm Carlos David Sandoval, a 22-year-old aspiring software engineer interested in mastering both front-end and back-end technologies.<br>🖼️ This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.<br>🎬 In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.
+<h1 align="center">Hi 👋, I'm Carlos David Sandoval</h1>
+<h3 align="center">🔭 I'm Carlos David Sandoval, a 22-year-old aspiring software engineer interested in mastering both front-end and back-end technologies. I love designing and architecting services, building real-time systems, microservices, and solid CRUD apps, while making sure they're fast, performant, and ready to scale. At the same time, I also enjoy building clean and responsive web apps using a variety of frameworks and integrating them with backends.This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.
+
+- 👨‍💻 All of my projects are available at [https://cdavidsv.dev/](https://cdavidsv.dev/)
+
+- 📄 Know about my experiences [https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf](https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf)
+
+- ⚡ Fun fact **In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.**
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-david-sandoval)
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -13,7 +22,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
@@ -38,4 +46,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CDavidSV&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CDavidSV&label=Profile%20views&color=0e75b6&style=flat" alt="cdavidsv" /> </p>
