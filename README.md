@@ -43,8 +43,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=CDavidSV&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CDavidSV&label=Profile%20views&color=0e75b6&style=flat" alt="cdavidsv" /> </p>
