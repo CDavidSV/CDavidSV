@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos David Sandoval</h1>
-<h3 align="center">🔭 I'm Carlos David Sandoval, a 22-year-old aspiring software engineer interested in mastering both front-end and back-end technologies. I love designing and architecting services, building real-time systems, microservices, and solid CRUD apps, while making sure they're fast, performant, and ready to scale. At the same time, I also enjoy building clean and responsive web apps using a variety of frameworks and integrating them with backends.This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.
+<h3 align="center">🔭 I'm Carlos David Sandoval, a 22-year-old aspiring software engineer interested in mastering both front-end and back-end technologies. I love designing and architecting services, building real-time systems, microservices, and solid CRUD apps, while making sure they're fast, performant, and ready to scale. At the same time, I also enjoy building clean and responsive web apps using a variety of frameworks and integrating them with backends.This GitHub repository showcases my work and projects, providing insights into my developer and creative enthusiast journey.</h3>
 
 - 👨‍💻 All of my projects are available at [https://cdavidsv.dev/](https://cdavidsv.dev/)
 
