@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cdavidsv.dev/](https://cdavidsv.dev/)
 
-- 📄 Know about my experiences [https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf](https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf)
+- 📄 Know about my experiences [https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf](https://cdn.cdavidsv.dev/Carlos_David_Sandoval_Resume_English.pdf)
 
 - ⚡ Fun fact **In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.**
 
