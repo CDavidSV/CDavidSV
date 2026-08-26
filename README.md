@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://cdn.cdavidsv.dev/Carlos_David_Resume_English.pdf](https://cdn.cdavidsv.dev/Carlos_David_Sandoval_Resume_English.pdf)
 
-- ⚡ Fun fact **In addition to coding, I have a creative side, and I love diving into video editing projects from time to time.**
+- ⚡ Fun fact **In addition to coding, I love diving into video editing projects from time to time.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-david-sandoval)
